@@ -4,4 +4,4 @@
 - I'm feeling like i'm interested in studying Android Programing these days.
 - 🌱 I’m currently learning Computer Engineer at UIT with Embedded System Engineering Major.
 - ⚡ Fun fact: I love playing games so if lucky enough you might find me in games xD
-- Personal side project future: bluetooth_robot_car (STM32F103C8T6)
+- Personal side future project: bluetooth_robot_car (STM32F103C8T6)
